@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T02:10:16.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KGyiAUw9X06U4SLYAij8" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T02:54:34.929Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="bI3mCZxTEWN2F0qGOD_9" version="24.4.13" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="5585" dy="3490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1500" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4390" dy="2827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="1500" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -835,7 +835,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4oqqYdqps3x5YQkpSLWu-315" value="미니 메뉴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="-544" y="170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oqqYdqps3x5YQkpSLWu-316" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="4oqqYdqps3x5YQkpSLWu-297" target="4oqqYdqps3x5YQkpSLWu-315">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -849,7 +849,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4oqqYdqps3x5YQkpSLWu-319" value="상단 고정 메뉴" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;shadow=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1180" y="170" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oqqYdqps3x5YQkpSLWu-328" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4oqqYdqps3x5YQkpSLWu-326" target="4oqqYdqps3x5YQkpSLWu-327">
           <mxGeometry relative="1" as="geometry" />
