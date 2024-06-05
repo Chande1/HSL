@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T00:14:46.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2Wp3qmh4G2wE3XldA8Lp" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T00:30:43.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Vfg0cxLEE1AQ4UH-fHkx" version="24.4.13" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="2158" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5585" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="4" value="PAL" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="130" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="SUB-PROJECT 6" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
+        <mxCell id="5" value="마이페이지" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="2010" y="169.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6" value="병원&amp;약국" style="whiteSpace=wrap;rounded=1;fillColor=#F2931E;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
@@ -61,7 +61,7 @@
         <mxCell id="46" value="찾아오시는길" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="-45.000000000000114" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="50" value="공지사항게시판" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="50" value="공지사항 게시판" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="139.99999999999932" y="400.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="52" value="게시글 작성&#xa;(관리자용)" style="whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontColor=#333333;fontStyle=0" parent="1" vertex="1">
@@ -781,7 +781,7 @@
         <mxCell id="4oqqYdqps3x5YQkpSLWu-278" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=11;startSize=8;endSize=8;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endArrow=none;endFill=0;" edge="1" parent="1" source="4oqqYdqps3x5YQkpSLWu-269" target="44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4oqqYdqps3x5YQkpSLWu-269" value="문의" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="4oqqYdqps3x5YQkpSLWu-269" value="질문 게시판" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="299.9999999999993" y="400.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oqqYdqps3x5YQkpSLWu-270" value="게시글 열람" style="whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontColor=#333333;fontStyle=0" vertex="1" parent="1">
@@ -826,7 +826,7 @@
         <mxCell id="51" value="공지 게시글 목록" style="whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontColor=#333333;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="139.99999999999955" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4oqqYdqps3x5YQkpSLWu-286" value="문의 게시글 목록" style="whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontColor=#333333;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="4oqqYdqps3x5YQkpSLWu-286" value="질문 게시글 목록" style="whiteSpace=wrap;rounded=1;fillColor=#f5f5f5;strokeColor=#666666;shadow=1;fontColor=#333333;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="299.99999999999955" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4oqqYdqps3x5YQkpSLWu-288" value="" style="endArrow=none;html=1;rounded=0;fontSize=11;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=#23445D;strokeWidth=8;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=#000000;labelBackgroundColor=default;elbow=vertical;endFill=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="4oqqYdqps3x5YQkpSLWu-286" target="4oqqYdqps3x5YQkpSLWu-269">
@@ -835,7 +835,7 @@
             <mxPoint x="370" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4oqqYdqps3x5YQkpSLWu-289" value="옆에 다 날리고 본인이 맡은쪽&lt;div&gt;작업하시고&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="4oqqYdqps3x5YQkpSLWu-289" value="옆에 다 날리고 본인이 맡은쪽&lt;div&gt;작업하시고 우측 상단 (...) 메뉴에서 XML로 파일 저장해서 보내주시면 합치겠습니다잇&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="710" y="50" width="190" height="190" as="geometry" />
         </mxCell>
       </root>
